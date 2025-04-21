@@ -1,4 +1,4 @@
-name: Deploy Spring PetClinic to Azure Web App
+name: PetClinic
 
 on:
   push:
